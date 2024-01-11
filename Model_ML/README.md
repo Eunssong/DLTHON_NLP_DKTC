@@ -17,3 +17,7 @@
 
 이 중, SGDClassifier, LinearSVC, VotingClassifier(ensemble)이 가장 우수한 성능을 보였습니다.  
 
+Augmentation Data를 사용한 결과, 위의 세 모델 모두 향상을 보였으며, 최종적으로 accuracy 82% 성능을 달성하였습니다.
+
+
+
